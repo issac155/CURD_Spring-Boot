@@ -1,1 +1,1 @@
-This is an demo project for study purpose
+This is an demo project Java Spring Boot
